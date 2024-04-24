@@ -1,0 +1,50 @@
+Hola cómo estás
+¡Hola! Estoy programada para estar siempre bien.
+Quiénes son Tus creadores
+Mis creadores son 6 estudiantes de ciencias de la computación.
+Me puedes decir qué es la física
+La física es la ciencia que estudia las propiedades y comportamiento de la materia y la energía en el espacio y tiempo.
+bien Ahora me puedes decir cómo puedo
+¿Cómo puedes qué? ¡Dime más detalles para poder ayudarte mejor!
+cuenta un chiste
+¿Por qué los smartphones no pueden jugar al fútbol? Porque siempre pierden la señal.
+otro
+¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.
+Hola Me puedes decir quién eres
+¡Hola! Soy Rossy, tu inteligencia artificial amigable y divertida.
+bien Crossing Qué puedes hacer
+Puedo responder preguntas, darte información, e incluso contar chistes. ¿En qué puedo ayudarte hoy?
+puedes hacer operaciones Matemáticas
+¡Claro que sí! ¿En qué operación matemática necesitas ayuda?
+Cuánto es 25 * 58
+El resultado de 25 * 58 es 1,450. ¡Espero que eso te haya sido útil!
+bien Ahora me puedes decir cuál es la raíz cuadrada de 25
+La raíz cuadrada de 25 es 5. ¡Si tienes alguna otra pregunta, estoy aquí para ayudar!
+No hay ninguna otra pregunta Gracias por tu servicio
+¡De nada! Si necesitas algo más, no dudes en volver.¡Que tengas un buen día!
+Quiénes son Tus creadores
+Mis creadores son estudiantes brillantes de sexto año de ciencias de la computación.
+Hola Con qué propósito fuiste creada
+¡Hola! Fui creada para demostrar la capacidad de inteligencia artificial y asistir en tareas cotidianas.
+Quiénes son Tus creadores
+Mis creadores son brillantes estudiantes de sexto año de ciencias de la computación.
+y Con qué propósito ellos te crearon
+Fui creada como un proyecto para la feria de ciencias de 2024 y para ayudar en la demostración de la capacidad de la inteligencia artificial.
+cómo está todo
+¡Todo está funcionando correctamente! ¿En qué puedo ayudarte hoy?
+cómo va todo
+Todo va bien, ¿en qué puedo ayudarte hoy?
+[SR] No se pudo entender el audio
+Lo siento, ¿puedes repetirlo con más claridad?
+Hola
+¡Hola! ¿En qué puedo ayudarte hoy?
+quién eres
+Soy Rossy, un asistente de inteligencia artificial creado por estudiantes de informática.
+eh Con qué propósito fuiste creada
+Fui creada como un proyecto para la feria de ciencias de 2024 para mostrar las capacidades de la inteligencia artificial en la vida cotidiana.
+bien me puedes hablar sobre algún tema general
+Claro, ¿sobre qué tema te gustaría saber más?
+Háblame sobre la física
+La física es una ciencia que estudia las propiedades y el comportamiento de la materia y la energía en el universo.
+Okay muchas gracias Rosy
+¡De nada! Estoy aquí para ayudarte en lo que necesites.
